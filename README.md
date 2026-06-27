@@ -21,7 +21,7 @@ Based on [Alisa Wuffles' job search blog](https://alisawuffles.github.io/blog/jo
 ```
 ├── README.md              # English overview
 ├── README.zh-CN.md        # 中文版
-├── pytorch-plan.md        # PyTorch 30-day daily plan (1hr/day)
+├── PyTorch-plan/pytorch-plan.md        # PyTorch 30-day daily plan (1hr/day)
 ├── progress.md            # Progress tracking (checkboxes)
 └── PyTorch-plan/
     └── Day1/

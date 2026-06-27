@@ -19,7 +19,7 @@
 ```
 ├── README.md              # 英文版
 ├── README.zh-CN.md        # 中文版
-├── pytorch-plan.md        # PyTorch 30天每日计划（1小时/天）
+├── PyTorch-plan/pytorch-plan.md        # PyTorch 30天每日计划（1小时/天）
 ├── progress.md            # 进度追踪（可打勾）
 └── PyTorch-plan/
     └── Day1/
