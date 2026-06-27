@@ -16,7 +16,7 @@
   - [PyTorch 官方教程首页](https://pytorch.org/tutorials/)
   - [Learn PyTorch: 00 Getting Started](https://www.learnpytorch.io/00_pytorch_fundamentals/)
 - 🎬 视频:
-  - [freeCodeCamp PyTorch Tutorial (前20分钟)](https://www.youtube.com/watch?v=G_RCsL7bxWg)
+  - [freeCodeCamp: Learn PyTorch in 5 Projects (前20分钟)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 30 分钟安装 + 30 分钟熟悉官方文档首页
 
 ### Day 2 — Tensor 创建
@@ -206,7 +206,7 @@
   - [PyTorch 官方: Dataset 和 DataLoader](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
   - [Learn PyTorch: Data Loading](https://www.learnpytorch.io/01_pytorch_workflow_fundamentals/#4-preparing-and-loading-data)
 - 🎬 视频:
-  - [freeCodeCamp PyTorch: DataLoader (约35分钟处)](https://www.youtube.com/watch?v=G_RCsL7bxWg)
+  - [freeCodeCamp PyTorch: DataLoader (0:00-0:30)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 16 — MNIST 数据加载
@@ -218,7 +218,7 @@
   - [torchvision.datasets.MNIST](https://pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html)
   - [torchvision.transforms](https://pytorch.org/vision/stable/transforms.html)
 - 🎬 视频:
-  - [freeCodeCamp PyTorch: MNIST (约40分钟处)](https://www.youtube.com/watch?v=G_RCsL7bxWg)
+  - [freeCodeCamp PyTorch: MNIST (1:31:13 Image Classification)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 17 — MNIST 分类模型
@@ -253,7 +253,7 @@
   - [PyTorch 官方: Save and Load Model](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
   - [PyTorch 官方: Serialization](https://pytorch.org/docs/stable/notes/serialization.html)
 - 🎬 视频:
-  - [freeCodeCamp PyTorch: Save/Load (约1小时处)](https://www.youtube.com/watch?v=G_RCsL7bxWg)
+  - [freeCodeCamp PyTorch: Save/Load (2:47:49 Pre-trained Models)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 45 分钟 + 15 分钟回顾
 
 ### Day 20 — GPU 训练
@@ -266,7 +266,7 @@
   - [PyTorch 官方: Device Management](https://pytorch.org/docs/stable/tensor_attributes.html)
   - [Learn PyTorch: Device Agnostic Code](https://www.learnpytorch.io/01_pytorch_workflow_fundamentals/#device-agnostic-code)
 - 🎬 视频:
-  - [freeCodeCamp PyTorch: GPU Training (约1小时20分钟处)](https://www.youtube.com/watch?v=G_RCsL7bxWg)
+  - [freeCodeCamp PyTorch: GPU Training (3:38:31 Audio Classification)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 21 — 周复习 + 完整 MNIST 项目
@@ -298,7 +298,7 @@
   - [Stanford CS231n: Convolutional Neural Networks](https://cs231n.github.io/convolutional-networks/)
 - 🎬 视频:
   - [3Blue1Brown: But what is a Convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
-  - [freeCodeCamp: CNN Explained](https://www.youtube.com/watch?v=pj9-LLaB_28)
+  - [freeCodeCamp: CNN Explained (1:31:13)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 23 — 池化与 BatchNorm
@@ -335,7 +335,7 @@
   - [torchvision.datasets.CIFAR10](https://pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html)
   - [d2l.ai: 7.1 AlexNet](https://d2l.ai/chapter_convolutional-modern/alexnet.html)
 - 🎬 视频:
-  - [freeCodeCamp: CNN with PyTorch](https://www.youtube.com/watch?v=pj9-LLaB_28)
+  - [freeCodeCamp: CNN with PyTorch (1:31:13)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 26 — 学习率调度与早停
@@ -360,7 +360,7 @@
   - [torchvision.transforms.RandomHorizontalFlip](https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomHorizontalFlip.html)
   - [d2l.ai: 12.1 图像增广](https://d2l.ai/chapter_computer-vision/image-augmentation.html)
 - 🎬 视频:
-  - [freeCodeCamp: Data Augmentation](https://www.youtube.com/watch?v=pj9-LLaB_28)
+  - [freeCodeCamp: Data Augmentation (2:47:49)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 28 — TensorBoard 可视化
@@ -373,7 +373,7 @@
   - [TensorBoard 官方文档](https://www.tensorflow.org/tensorboard/get_started)
   - [torch.utils.tensorboard](https://pytorch.org/docs/stable/tensorboard.html)
 - 🎬 视频:
-  - [freeCodeCamp: TensorBoard](https://www.youtube.com/watch?v=V2wJCOOCq3U)
+  - [freeCodeCamp: TensorBoard (4:52:31 Text Classification)](https://www.youtube.com/watch?v=E0bwEAWmVEM)
 - 时间: 60 分钟
 
 ### Day 29 — 自定义训练技巧
@@ -423,7 +423,7 @@
 | 3Blue1Brown: Linear Algebra | https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi |
 | 3Blue1Brown: Calculus | https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr |
 | d2l.ai (动手学深度学习) | https://d2l.ai/ |
-| freeCodeCamp PyTorch | https://www.youtube.com/watch?v=G_RCsL7bxWg |
+| freeCodeCamp: Learn PyTorch in 5 Projects (2025) | https://www.youtube.com/watch?v=E0bwEAWmVEM |
 | Karpathy: Let's build GPT | https://www.youtube.com/watch?v=kCc8FmEb1nY |
 | Karpathy: Micrograd | https://www.youtube.com/watch?v=VMj-3S1tku0 |
 | Stanford CS231n | https://cs231n.github.io/ |
